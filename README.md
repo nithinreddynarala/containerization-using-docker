@@ -1,8 +1,7 @@
 # Flask + PostgreSQL with Docker Compose
 
-**Portfolio demonstration project** for a Docker and Docker Compose service gig. This is a self-directed sample, not paid client work.
 
-Run a small Flask API and PostgreSQL database together with one command. The API reports service health and lets you create and list notes. Compose waits for the database health check before starting the API, and a named volume keeps database files across container restarts.
+This is a small Flask API and PostgreSQL database together with one command. The API reports service health and lets you create and list notes. Compose waits for the database health check before starting the API, and a named volume keeps database files across container restarts.
 
 ## Stack
 
